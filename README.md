@@ -13,7 +13,6 @@ Other pages:
 -Three images with captions
 -One table
 -At least one of each: h1 tag, h3 tag, a paragraph of text
--A button that switches text color on the page
 -Link back to Homepage
 
 Git requirements (must follow feature branch workflow):
